@@ -22,7 +22,7 @@ digitamos en la cosola el siguiente comando:
 
 digitamos en la cosola los siguiente comandos:
 * cd geolocationApp
-* ionic serv
+* ionic serve
 
 # Abrimos el proyecto:
 * Recomiendo Visual Studio Code, pero igual puedes usar su IDE de preferencia.
